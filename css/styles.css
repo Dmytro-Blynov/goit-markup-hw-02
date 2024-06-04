@@ -10,4 +10,44 @@ ul {
 
 a {
   text-decoration: none;
+  font-style: normal;
+}
+
+.nav-span {
+  color: #4d5ae5;
+}
+
+.nav-logo {
+  font-family: "Raleway", sans-serif;
+  color: #2e2f42;
+}
+
+.nav-link:hover,
+.nav-link:focus,
+.nav-link:active {
+  color: #404bbf;
+}
+
+.address-link:hover,
+.address-link:focus {
+  color: #404bbf;
+}
+
+.nav-link {
+  color: #2e2f42;
+}
+
+.address-link {
+  font-style: normal;
+  color: #434455;
+}
+
+.title-button {
+  color: #fff;
+  background-color: #4d5ae5;
+}
+
+.title {
+  background-color: #2e2f42;
+  color: #fff;
 }
